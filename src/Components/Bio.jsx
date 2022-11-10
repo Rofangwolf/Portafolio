@@ -1,4 +1,4 @@
-import mifoto from "../yo.png"
+import mifoto from "../yo.jpg"
 
 export default function Bio() {
     return (
