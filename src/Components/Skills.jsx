@@ -28,6 +28,14 @@ export default function Skills() {
                         <img src="https://img.icons8.com/color/480/redux.png" alt="Redux" width="100" height="100" />
                     </div>
                     <div>
+                        <h3>Vue</h3>
+                        <img src="https://vuejs.org/images/logo.png" alt="Vue" width="100" height="100" />
+                    </div>
+                    <div>
+                        <h3>Vuetify</h3>
+                        <img src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_ueewexj8rzu91.png" alt="Vuetify" width="100" height="100" />
+                    </div>
+                    <div>
                         <h3>Tailwind CSS</h3>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="100" height="100" />
                     </div>
@@ -56,7 +64,7 @@ export default function Skills() {
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgresSQL" width="100" height="100" />
                     </div>
                     <div>
-                        <h3>Amazon</h3>
+                        <h3>AWS</h3>
                         <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="100" height="100" />
                     </div>
                 </div>
