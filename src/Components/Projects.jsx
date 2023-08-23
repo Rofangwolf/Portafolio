@@ -17,7 +17,7 @@ export default function Projects() {
                 </div>
 
                 <div className="hover:opacity-50 hover:cursor-pointer lg:w-screen">
-                    <a href="www.solumetric.cl">
+                    <a href="https://www.solumetric.cl">
                         <img src={solumetric} className="rounded-lg "></img>
                         <h3 className="text-xl">SoluMetric</h3>
                     </a>
