@@ -18,7 +18,7 @@ export default function Bio() {
                         <h3 className="text-3xl mt-3">Mis experiencias:</h3>
                         <div >
                             <h3 className="text-justify mt-3">
-                                - Ingeniero de desarrollo de software y front-end, creando algoritmos y códigos de programación relacionados con IoT y AWS aplicados en dispositivos con sistema operativo Raspbian, tambien programando el front-end del proyecto Full Metric para la empresa SoluMetric. Esta experiencia me sirvió para desarrollar mi autoaprendizaje, pensamiento lógico, gestion del tiempo, adaptabilidad y resolución de problemas.
+                                - Ingeniero de desarrollo de software y front-end, creando algoritmos y códigos de programación relacionados con IoT y AWS aplicados en dispositivos con sistema operativo Raspberry Pi OS, tambien programando el front-end del proyecto Full Metric para la empresa SoluMetric. Esta experiencia me sirvió para desarrollar mi autoaprendizaje, pensamiento lógico, gestion del tiempo, adaptabilidad y resolución de problemas.
                             </h3>
                             <h3 className="text-justify mt-3">
                                 - Electricista de contingencia en el rúbro de la mineria en divison Gabriela Mistral, donde se necesitaban solucionar todo tipo de problemas, con el fin de mantener la planta en producción en los distintos turnos rotativos (12 horas turno dia o 12 horas turno noche). Esta experiencia me ayudó a desarrollar mi resilencia, capacidad de trabajo bajo presión, pensamiento analítico y creatividad para resolver los problemas de manera rápida y eficiente adaptándome a los cambios que surjan.

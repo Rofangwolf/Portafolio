@@ -60,7 +60,7 @@ export default function Skills() {
                         <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" width="100" height="100" />
                     </div>
                     <div>
-                        <h3>Postgres SQL</h3>
+                        <h3>PostgresSQL</h3>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgresSQL" width="100" height="100" />
                     </div>
                     <div>
